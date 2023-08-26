@@ -5,6 +5,8 @@
 
 Render Engine is a static site generator built in Python that allows you to generate websites, pages, and collections, with Python classes.
 
+**Learn more about the many projects and tools built around Render Engine in our [wiki](https://github.com/render-engine/.github/wiki)**
+
 ## The _3 layer_ Architecture 
 
 * **[Page](https://render-engine.readthedocs.io/en/latest/page)** - A single webpage item built from content, a template, raw data, or a combination of those things.
