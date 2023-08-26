@@ -22,6 +22,7 @@ Themes are made using Jinja. Get started using this [cookiecutter template](http
 
 ## Supporters
 Sponsors at $20/month and Higher!
-Brian Douglas
-Carol Willing
-Jason Brechin
+
+* [Brian Douglas]((https://github.com/bdougie)
+* [Carol Willing](https://github.com/willingc)
+* [Jason Brechin](url)
