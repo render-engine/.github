@@ -25,4 +25,4 @@ Sponsors at $20/month and Higher!
 
 * [Brian Douglas]((https://github.com/bdougie)
 * [Carol Willing](https://github.com/willingc)
-* [Jason Brechin](url)
+* [Jason Brechin](https://github.com/brechin)
