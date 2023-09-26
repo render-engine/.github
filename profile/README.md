@@ -28,5 +28,4 @@ Render Engine is a static site generator built in Python that allows you to gene
 Sponsors at $20/month and Higher!
 
 * [Brian Douglas](https://github.com/bdougie)
-* [Carol Willing](https://github.com/willingc)
 * [Jason Brechin](https://github.com/brechin)
