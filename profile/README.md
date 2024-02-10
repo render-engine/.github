@@ -1,17 +1,17 @@
 # Render Engine
 > **Note**
-> This is the orginzation repo. 
+> This is the organization repo. 
 > The code can be found at [render-engine/render-engine](https://github.com/render-engine/render-engine).
 
 Render Engine is a static site generator built in Python that allows you to generate websites, pages, and collections, with Python classes.
 
-**Learn more about the many projects and tools built around Render Engine in our [wiki](https://github.com/render-engine/.github/wiki)**
+**Learn more about the many projects and tools built around Render Engine in our [wiki](https://github.com/render-engine/render-engine/wiki)**
 
 ## The _3 layer_ Architecture 
 
 * **[Page](https://render-engine.readthedocs.io/en/latest/page)** - A single webpage item built from content, a template, raw data, or a combination of those things.
 * **[Collection](https://render-engine.readthedocs.io/en/latest/collection/)** - A group of webpages built from the same template, organized in a single directory
-* **[Site](https://render-engine.readthedocs.io/en/latest/site/)** - The container that helps to render all Pages and Collections in with uniform settigns and variables
+* **[Site](https://render-engine.readthedocs.io/en/latest/site/)** - The container that helps to render all Pages and Collections with uniform settings and variables
 
 ## Plugins
 [Plugins](https://render-engine.readthedocs.io/en/latest/plugins/) are made using [pluggy](https://github.com/pytest-dev/pluggy). Get started using this [cookiecutter template](https://github.com/render-engine/cc-render-engine-plugins).
