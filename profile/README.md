@@ -24,6 +24,7 @@ Render Engine is a static site generator built in Python that allows you to gene
 - https://kjaymiller.com - Website for Render Engine Creator @kjaymiller
 - https://pythoncommunitynews.com - YouTube Channel dedicated to news around Python that doesn't require `pip install`
 - https://brassnet.biz - Website for Render Engine primary maintainer @brass75
+- https://templates.aiven.io - Library of Application that run on Aiven Runtime
 
 ## Supporters
 Sponsors at $20/month and Higher!
